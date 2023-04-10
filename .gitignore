@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Library
+/Assets/2D Pixel Spaceship - Two Small Ships
+/Assets/2D Pixel Spaceships (2 Small Ships + Explosions)
+/Assets/2D Space Kit
+/Assets/Cainos
+/Assets/DinV
+/Assets/TextMesh Pro
+*.meta
+/Logs
+/obj
+/UserSettings
+/Temp
+/Assets/Scenes/SampleScene.unity
